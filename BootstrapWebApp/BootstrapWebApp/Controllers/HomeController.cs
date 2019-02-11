@@ -26,5 +26,13 @@ namespace BootstrapWebApp.Controllers
 
             return View();
         }
+        public ActionResult Ruudukko()
+        {
+            return View();
+        }
+        public ActionResult Modal()
+        {
+            return View();
+        }
     }
 }
